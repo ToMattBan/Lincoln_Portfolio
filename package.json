@@ -10,6 +10,8 @@
   },
   "devDependencies": {
     "@types/node": "^18",
-    "nuxt": "^3.5.2"
+    "my-itcss": "^1.5.0",
+    "nuxt": "^3.5.2",
+    "sass": "^1.62.1"
   }
 }
